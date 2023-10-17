@@ -1,11 +1,11 @@
-## How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+### How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
  When reviewing the needs of users it is important to listen to what they find valuable and what will help them achieve their purposes, as these are the most important aspects that will need to be turned into functionality. The value of “user stories” in the Scrum-agile framework is that each distinct feature expressed by a user need is documented in its own story, which helps keep the overall scope of the program manageable as a collection of parts-of-the-whole, each with their own inherent to bring to the user. 
 
-## How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+### How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
 In the past, I have broken down programs into a document of pseudo-code in bullet points, and then implemented each piece in sequence, writing the functionality whole-cloth as I go. I love the idea of breaking the whole program into stories and providing each story its own time estimate, as well as keeping a burn down chart for tracking actual time versus projected time. Since I tend to struggle with planning and time management, I will definitely be implementing these tools going forward. 
 
-## What does it mean to be a good team member in software development?
+### What does it mean to be a good team member in software development?
 
 Communication is key to being a good team member in software development. From the Product Owner’s perspective, they must communicate the vision between stakeholders, management, Scrum Masters, and developers, and make sure that everyone is on the same page. For Scrum Masters, they must communicate with their developers the expectations of the sprint, and keep the team on task during meetings and make sure that impediments are being identified and managed, as well as communicate across teams if necessary to stay aligned with other SMs. From a Developers perspective, they need to communicate with their team mates as to progress and any issues they are facing, and if there are any dependencies they are running into regarding others’ work. Open communication is vital for all parts of the process to keep connected and properly focused on the right goals at the right time. 
